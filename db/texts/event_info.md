@@ -40,7 +40,7 @@ _Making Life Easier_: The questions here only come into play if you are chosen t
 
 Here's the basic timeline of how we will move from collecting proposals to announcing the conference lineup:
 
-1. __Open &amp; Publicize the CFP:__ The CFP opens __Monday, 15 June 2016__. We will accept proposals through the end of __Monday, 13 July 2016__ (11:59pm Pacific Standard Time).
+1. __Open &amp; Publicize the CFP:__ The CFP opens __Friday, 4 March 2016__. We will accept proposals through the end of __Friday, 1 April 2016__ (11:59pm Pacific Standard Time).
 
 1. __Evaluate proposals__: Given the timeline we will begin reviewing submitted proposals on a rolling basis. The review process will proceed through phases. These phases are set up to both review presentation ideas on their own merits and also ensuring we get diverse ideas and speakers.
 
@@ -53,5 +53,5 @@ Here's the basic timeline of how we will move from collecting proposals to annou
 Required fields are marked with a red asterisk
 (<span class="required">*</span>). After you submit your proposal, you'll receive both a browser and email confirmation of your submission.
 
-__If you have any problems or concerns with the form or the process, please reach out via email to [cfp@osfeels.com](mailto:cfp@osfeels.com). That address goes directly to OSFeels organizers tasked with ensuring that everyone has the opportunity to participate in this process and who have recused themselves from the blinded rounds of review.__
+__If you have any problems or concerns with the form or the process, please reach out via email to [hello@osfeels.com](mailto:hello@osfeels.com). That address goes directly to OSFeels organizers tasked with ensuring that everyone has the opportunity to participate in this process and who have recused themselves from the blinded rounds of review.__
 
