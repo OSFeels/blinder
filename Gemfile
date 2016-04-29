@@ -31,6 +31,7 @@ group :development, :test do
   gem 'sqlite3'
   gem 'pry'
   gem 'rails-erd'
+  gem "pry-rails"
 end
 
 group :production do
