@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20160329052547) do
+ActiveRecord::Schema.define(version: 20160429052024) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -55,6 +55,7 @@ ActiveRecord::Schema.define(version: 20160329052547) do
     t.datetime "created_at"
     t.datetime "updated_at"
     t.boolean  "safe_for_review", default: false
+    t.float    "z_average",       default: 0.0
   end
 
   add_index "proposals", ["slug"], name: "index_proposals_on_slug", using: :btree
@@ -105,6 +106,8 @@ ActiveRecord::Schema.define(version: 20160329052547) do
     t.datetime "created_at"
     t.datetime "updated_at"
     t.string   "role"
+    t.float    "rating_average",            default: 0.0
+    t.float    "rating_standard_deviation", default: 0.0
   end
 
 end

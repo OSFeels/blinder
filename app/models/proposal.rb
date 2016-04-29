@@ -14,6 +14,7 @@ class Proposal < ActiveRecord::Base
   scope :for_event,   -> (event_id) { listing.most_recent.where(event_id: event_id, safe_for_review: true) }
   scope :unsafe,      -> { listing.most_recent.where(safe_for_review: false) }
   scope :safe,        -> { listing.most_recent.where(safe_for_review: true) }
+  scope :top,         -> (n) { order(z_average: :desc).limit(n) }
 
   accepts_nested_attributes_for :responses
 
